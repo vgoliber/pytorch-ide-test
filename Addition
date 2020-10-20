@@ -1,0 +1,9 @@
+#Import print function
+from __future__ import print_function
+#Import Pytorch
+import torch
+#Define two variables using Pytorch and random module
+x = torch.rand(5, 3)
+y = torch.rand(5, 3)
+#Print variable
+print(x + y)
