@@ -1,5 +1,5 @@
 future==0.18.2
-numpy==1.19.1
+numpy>=1.21
 Pillow>=9.0.0
 torch==1.6.0
 torchvision==0.7.0
